@@ -1,2 +1,2 @@
-# Chat-Application
+# Chat_Application
 Java Project
